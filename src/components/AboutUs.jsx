@@ -54,7 +54,7 @@ const AboutUs = () => {
 
         <div style={{ flex: 1 }}>
           <img
-            src="src/assets/Merengon.png"
+            src="src/Imagenes/Merengon.png"
             alt="Logo"
             style={{
               width: '100%',
