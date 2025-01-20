@@ -24,7 +24,7 @@ const Nav = () => {
           }}
         >
           <img
-            src="src/Imagenes/Logo.png"
+            src="/Imagenes/Logo.png"
             alt="Logo de merengón"
             style={{
               width: isSmallScreen ? '120px' : '100px',
